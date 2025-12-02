@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PYcQUmeicE4=",
+  "success": true,
+  "projectFilePath": "/home/anakinabela/EnterpriseProgramming/BulkImport_Restaurant_Data/DataAccess/DataAccess.csproj",
+  "expectedPackageFiles": [
+    "/home/anakinabela/.nuget/packages/microsoft.entityframeworkcore.tools/10.0.0/microsoft.entityframeworkcore.tools.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

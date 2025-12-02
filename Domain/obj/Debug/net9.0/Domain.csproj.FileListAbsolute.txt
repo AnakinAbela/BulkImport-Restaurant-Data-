@@ -1,0 +1,11 @@
+/home/anakinabela/EnterpriseProgramming/BulkImport_Restaurant_Data/Domain/bin/Debug/net9.0/Domain.deps.json
+/home/anakinabela/EnterpriseProgramming/BulkImport_Restaurant_Data/Domain/bin/Debug/net9.0/Domain.dll
+/home/anakinabela/EnterpriseProgramming/BulkImport_Restaurant_Data/Domain/bin/Debug/net9.0/Domain.pdb
+/home/anakinabela/EnterpriseProgramming/BulkImport_Restaurant_Data/Domain/obj/Debug/net9.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/anakinabela/EnterpriseProgramming/BulkImport_Restaurant_Data/Domain/obj/Debug/net9.0/Domain.AssemblyInfoInputs.cache
+/home/anakinabela/EnterpriseProgramming/BulkImport_Restaurant_Data/Domain/obj/Debug/net9.0/Domain.AssemblyInfo.cs
+/home/anakinabela/EnterpriseProgramming/BulkImport_Restaurant_Data/Domain/obj/Debug/net9.0/Domain.csproj.CoreCompileInputs.cache
+/home/anakinabela/EnterpriseProgramming/BulkImport_Restaurant_Data/Domain/obj/Debug/net9.0/Domain.dll
+/home/anakinabela/EnterpriseProgramming/BulkImport_Restaurant_Data/Domain/obj/Debug/net9.0/refint/Domain.dll
+/home/anakinabela/EnterpriseProgramming/BulkImport_Restaurant_Data/Domain/obj/Debug/net9.0/Domain.pdb
+/home/anakinabela/EnterpriseProgramming/BulkImport_Restaurant_Data/Domain/obj/Debug/net9.0/ref/Domain.dll
